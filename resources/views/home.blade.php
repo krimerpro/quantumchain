@@ -36,7 +36,7 @@
               <div class="elementor-element elementor-element-b32d5e4 elementor-align-justify elementor-widget elementor-widget-button" data-id="b32d5e4" data-element_type="widget" data-widget_type="button.default">
       <div class="elementor-widget-container">
         <div class="elementor-button-wrapper">
-    <a href="https://poocoin.app/tokens/0x" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" style="width:100%">
+    <a href="https://poocoin.app/tokens/0x98da4485AE82d43a0C3F10deC8f7d43CB7a73B19" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" style="width:100%">
           <span class="elementor-button-content-wrapper">
           <span class="elementor-button-text">CHART</span>
   </span>
@@ -66,7 +66,7 @@
       <div class="elementor-element elementor-element-9941190 elementor-widget elementor-widget-heading" data-id="9941190" data-element_type="widget" data-widget_type="heading.default">
       <div class="elementor-widget-container">
     <h2 class="elementor-heading-title elementor-size-default">Contract Address:<br>
-0x</h2>		</div>
+0x98da4485AE82d43a0C3F10deC8f7d43CB7a73B19</h2>		</div>
       </div>
       <div class="elementor-element elementor-element-e9f1751 elementor-shape-circle elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="e9f1751" data-element_type="widget" data-widget_type="social-icons.default">
       <div class="elementor-widget-container">
@@ -116,7 +116,7 @@
       <div class="elementor-element elementor-element-4e3d3f7 elementor-widget elementor-widget-text-editor" data-id="4e3d3f7" data-element_type="widget" data-widget_type="text-editor.default">
       <div class="elementor-widget-container">
     <style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Quantum Chain is a blockchain project that is focused on advancing the development of blockchain technology. The project aims to provide a secure, decentralized, and efficient blockchain platform that can support a wide range of use cases and applications. quantum Chain is designed to be highly scalable, allowing it to handle a large volume of transactions per second, and offers robust security features to protect users&#8217; data and assets.</p><p>The platform is developer-friendly, offering a comprehensive set of tools and resources to enable developers to easily build and deploy decentralized applications (dApps). quantum Chain also prioritizes interoperability with other blockchain platforms, enabling developers to build cross-chain applications that leverage multiple blockchain networks.</p>						</div>
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Quantum Chain is a blockchain project that is focused on advancing the development of blockchain technology. The project aims to provide a secure, decentralized, and efficient blockchain platform that can support a wide range of use cases and applications. Quantum Chain is designed to be highly scalable, allowing it to handle a large volume of transactions per second, and offers robust security features to protect users&#8217; data and assets.</p><p>The platform is developer-friendly, offering a comprehensive set of tools and resources to enable developers to easily build and deploy decentralized applications (dApps). quantum Chain also prioritizes interoperability with other blockchain platforms, enabling developers to build cross-chain applications that leverage multiple blockchain networks.</p>						</div>
       </div>
         </div>
   </div>
