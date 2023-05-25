@@ -451,7 +451,7 @@ WITHDRAW FEE
       </div>
       <div class="elementor-element elementor-element-d2ee604 elementor-widget elementor-widget-progress" data-id="d2ee604" data-element_type="widget" data-widget_type="progress.default">
       <div class="elementor-widget-container">
-          <span class="elementor-title">7% Buy Tax</span>
+          <span class="elementor-title">4% Buy Tax</span>
 
   <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="65" aria-valuetext="">
     <div class="elementor-progress-bar" data-max="65">
@@ -462,7 +462,7 @@ WITHDRAW FEE
       </div>
       <div class="elementor-element elementor-element-c18a9a9 elementor-widget elementor-widget-progress" data-id="c18a9a9" data-element_type="widget" data-widget_type="progress.default">
       <div class="elementor-widget-container">
-          <span class="elementor-title">7% Sell Tax</span>
+          <span class="elementor-title">4% Sell Tax</span>
 
   <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="25" aria-valuetext="">
     <div class="elementor-progress-bar" data-max="25">
@@ -473,7 +473,7 @@ WITHDRAW FEE
       </div>
       <div class="elementor-element elementor-element-303c8fb elementor-widget elementor-widget-progress" data-id="303c8fb" data-element_type="widget" data-widget_type="progress.default">
       <div class="elementor-widget-container">
-          <span class="elementor-title">2% Max Transaction</span>
+          <span class="elementor-title">4% Max Transaction</span>
 
   <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="5" aria-valuetext="">
     <div class="elementor-progress-bar" data-max="5">
@@ -484,7 +484,7 @@ WITHDRAW FEE
       </div>
       <div class="elementor-element elementor-element-f4f9ffe elementor-widget elementor-widget-progress" data-id="f4f9ffe" data-element_type="widget" data-widget_type="progress.default">
       <div class="elementor-widget-container">
-          <span class="elementor-title">2% Max Wallet</span>
+          <span class="elementor-title">4% Max Wallet</span>
 
   <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="5" aria-valuetext="">
     <div class="elementor-progress-bar" data-max="5">
