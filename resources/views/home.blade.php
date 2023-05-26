@@ -36,7 +36,7 @@
               <div class="elementor-element elementor-element-b32d5e4 elementor-align-justify elementor-widget elementor-widget-button" data-id="b32d5e4" data-element_type="widget" data-widget_type="button.default">
       <div class="elementor-widget-container">
         <div class="elementor-button-wrapper">
-    <a href="https://poocoin.app/tokens/0x" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" style="width:100%">
+    <a href="https://poocoin.app/tokens/0xBAa82d5e9EE32bfB94b354f65B95046172A41302" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" style="width:100%">
           <span class="elementor-button-content-wrapper">
           <span class="elementor-button-text">CHART</span>
   </span>
@@ -66,7 +66,7 @@
       <div class="elementor-element elementor-element-9941190 elementor-widget elementor-widget-heading" data-id="9941190" data-element_type="widget" data-widget_type="heading.default">
       <div class="elementor-widget-container">
     <h2 class="elementor-heading-title elementor-size-default">Contract Address:<br>
-0x</h2>		</div>
+0xBAa82d5e9EE32bfB94b354f65B95046172A41302</h2>		</div>
       </div>
       <div class="elementor-element elementor-element-e9f1751 elementor-shape-circle elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="e9f1751" data-element_type="widget" data-widget_type="social-icons.default">
       <div class="elementor-widget-container">
