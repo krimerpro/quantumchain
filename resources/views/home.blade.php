@@ -36,7 +36,7 @@
               <div class="elementor-element elementor-element-b32d5e4 elementor-align-justify elementor-widget elementor-widget-button" data-id="b32d5e4" data-element_type="widget" data-widget_type="button.default">
       <div class="elementor-widget-container">
         <div class="elementor-button-wrapper">
-    <a href="https://poocoin.app/tokens/0xDa43f176b0a74bb40BAc10c628a0381fed66d32C" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" style="width:100%">
+    <a href="https://poocoin.app/tokens/0x" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button" style="width:100%">
           <span class="elementor-button-content-wrapper">
           <span class="elementor-button-text">CHART</span>
   </span>
@@ -66,7 +66,7 @@
       <div class="elementor-element elementor-element-9941190 elementor-widget elementor-widget-heading" data-id="9941190" data-element_type="widget" data-widget_type="heading.default">
       <div class="elementor-widget-container">
     <h2 class="elementor-heading-title elementor-size-default">Contract Address:<br>
-0xDa43f176b0a74bb40BAc10c628a0381fed66d32C</h2>		</div>
+0x</h2>		</div>
       </div>
       <div class="elementor-element elementor-element-e9f1751 elementor-shape-circle elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="e9f1751" data-element_type="widget" data-widget_type="social-icons.default">
       <div class="elementor-widget-container">
@@ -473,7 +473,7 @@ WITHDRAW FEE
       </div>
       <div class="elementor-element elementor-element-303c8fb elementor-widget elementor-widget-progress" data-id="303c8fb" data-element_type="widget" data-widget_type="progress.default">
       <div class="elementor-widget-container">
-          <span class="elementor-title">4% Max Transaction</span>
+          <span class="elementor-title">2% Max Transaction</span>
 
   <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="5" aria-valuetext="">
     <div class="elementor-progress-bar" data-max="5">
@@ -484,7 +484,7 @@ WITHDRAW FEE
       </div>
       <div class="elementor-element elementor-element-f4f9ffe elementor-widget elementor-widget-progress" data-id="f4f9ffe" data-element_type="widget" data-widget_type="progress.default">
       <div class="elementor-widget-container">
-          <span class="elementor-title">4% Max Wallet</span>
+          <span class="elementor-title">2% Max Wallet</span>
 
   <div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="5" aria-valuetext="">
     <div class="elementor-progress-bar" data-max="5">
